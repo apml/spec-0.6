@@ -1,4 +1,4 @@
-# The APML Specification
+# The APML Specification 0.6
 
 ## Contributors
 
